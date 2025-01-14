@@ -4,6 +4,8 @@
 ### Pipeline
 ![다이어그램](./images/pipeline.png)
 
+---
+
 ### Componenets
 **AWS Lambda**: 모든 로직(감정 분석, 데이터 저장, 이메일 전송)을 처리  
 **API Gateway**: 클라이언트와 Lambda 함수 간 통신을 처리하는 인터페이스  
