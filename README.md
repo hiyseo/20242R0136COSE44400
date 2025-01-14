@@ -10,6 +10,8 @@
 **DynamoDB**: 리뷰 데이터를 저장하는 NoSQL 데이터베이스  
 **AWS SES**: 긍정적인 리뷰에 대해 관리자에게 알림 이메일 전송  
 
+---
+
 ### Data Flow
 **Client -> API Gateway**  
 Client에서 POST 요청으로 리뷰 데이터 전달  
